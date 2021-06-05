@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.example.sfgpetclinic.SfgPetClinicApplicationTests
 -------------------------------------------------------------------------------
+<<<<<<< HEAD
 Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.055 s - in com.example.sfgpetclinic.SfgPetClinicApplicationTests
+=======
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.367 s - in com.example.sfgpetclinic.SfgPetClinicApplicationTests
+>>>>>>> origin/main
